@@ -1,5 +1,5 @@
 # E-Commerce-Analytics
-# 📊 Data Analysis & Web Dashboard Project
+#  Data Analysis & Web Dashboard Project
 
 Ce projet consiste à construire un site web complet visualisation de données de ventes.
 
@@ -69,7 +69,7 @@ Python est utilisé pour exploiter les données stockées en base.
 
 ---
 
-## 🌐 Web – Interface utilisateur
+##  Web – Interface utilisateur
 
 Une interface web simple est développée avec :
 
@@ -93,7 +93,7 @@ Une interface web simple est développée avec :
 
 ---
 
-## 🏗️ Architecture du projet
+##  Architecture du projet
 
 ```id="archfinal"
 Projet_perso/

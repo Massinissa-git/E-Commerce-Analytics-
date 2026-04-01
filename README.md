@@ -122,13 +122,8 @@ Exécuter :
 * Visualisation.py
 
 ### 3. Application Web
-
-* Lancer un serveur local (XAMPP / WAMP)
-* Placer le dossier `web` dans `htdocs`
-* Accéder via :
-
 ```id="urlfinal"
-http://localhost/web
+https://lomani.infinityfree.me
 ```
 
 ---
